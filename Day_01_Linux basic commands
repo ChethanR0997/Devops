@@ -1,0 +1,92 @@
+
+1. `ping 8.8.8.8`: This command sends ICMP echo requests to the IP address 8.8.8.8, which is a public DNS server, to check network connectivity.
+
+2. `clear`: This command clears the terminal screen, providing a clean workspace.
+
+3. `pwd`: Prints the current working directory, showing the path to your current location in the file system.
+
+4. `mkdir devops`: Creates a new directory named "devops" in the current working directory.
+
+5. `ls`: Lists the files and directories in the current directory.
+
+6. `cd`: Changes the current directory to the user's home directory.
+
+7. `cd /`: Changes the current directory to the root directory.
+
+8. `cd home/`: Moves into the "home" directory.
+
+9. `ls`: Lists the contents of the "home" directory.
+
+10. `cd ubuntu/`: Changes to the "ubuntu" directory within the "home" directory.
+
+11. `ls`: Lists the contents of the "ubuntu" directory.
+
+12. `cd devops/`: Changes to the "devops" directory within the "ubuntu" directory.
+
+13. `ls`: Lists the contents of the "devops" directory.
+
+14. `cd ..`: Moves up one directory level.
+
+15. `pwd`: Prints the current working directory.
+
+16. `whoami`: Displays the current username.
+
+17. `pwd`: Again prints the current working directory.
+
+18. `cd ..`: Moves up one directory level.
+
+19. `pwd`: Prints the current working directory.
+
+20. `cd ..`: Moves up one directory level.
+
+21. `ls`: Lists the contents of the current directory.
+
+22. `cd bin`: Changes the current directory to the "bin" directory.
+
+23. `ls`: Lists the contents of the "bin" directory.
+
+24. `cd ..`: Moves up one directory level.
+
+25. `ls`: Lists the contents of the current directory.
+
+26. `cd boot/`: Changes the current directory to the "boot" directory.
+
+27. `ls`: Lists the contents of the "boot" directory.
+
+28. `clear`: Clears the terminal screen.
+
+29. `pwd`: Prints the current working directory.
+
+30. `cd ..`: Moves up one directory level.
+
+31. `pwd`: Prints the current working directory.
+
+32. `ls`: Lists the contents of the current directory.
+
+33. `cd var/`: Changes the current directory to the "var" directory.
+
+34. `ls`: Lists the contents of the "var" directory.
+
+35. `cd log`: Changes the current directory to the "log" directory.
+
+36. `ls`: Lists the contents of the "log" directory.
+
+37. `cd ..`: Moves up one directory level.
+
+38. `pwd`: Prints the current working directory.
+
+39. `ls`: Lists the contents of the current directory.
+
+40. `cd root/`: Changes the current directory to the "root" directory.
+
+41. `whoami`: Displays the current username.
+
+42. `cd home/ubuntu/`: Changes to the "home/ubuntu" directory.
+
+43. `pwd`: Prints the current working directory.
+
+44. `ls`: Lists the contents of the "home/ubuntu" directory.
+
+45. `cd ~`: Changes to the user's home directory.
+
+46. `pwd`: Prints the current working directory.
