@@ -1,0 +1,192 @@
+Day-1 Linux commands
+1  ping 8.8.8.8
+    2  clear
+    3  pwd
+    4  mkdir devops
+    5  ls
+    6  cd
+    7  cd /
+    8  ls
+    9  cd home/
+   10  ls
+   11  cd ubuntu/
+   12  ls
+   13  cd devops/
+   14  ls
+   15  cd ..
+   16  pwd
+   17  whoami
+   18  pwd
+   19  cd ..
+   20  pwd
+   21  cd ..
+   22  ls
+   23  cd bin
+   24  ls
+   25  cd ..
+   26  ls
+   27  cd boot/
+   28  ls
+   29  clear
+   30  pwd
+   31  cd ..
+   32  pwd
+   33  ls
+   34  cd var/
+   35  ls
+   36  cd log
+   37  ls
+   38  cd ..
+   39  pwd
+   40  ls
+   41  cd root/
+   42  whoami
+   43  cd home/ubuntu/
+   44  pwd
+   45  ls
+   46  cd ~
+   47  pwd
+   48  cd /
+   49  ls
+   50  cd bin
+   51  ls
+   52  cd ..
+   53  cd home/
+   54  cd ..
+   55  cd home/ubuntu/
+   56  ls
+   57  touch hello.txt
+   58  ls
+   59  pwd
+   60  clear
+   61  echo "hello dosto"
+   62  ls
+   63  cat hello.txt 
+   64  echo "hello dosto" > hello.txt 
+   65  cat hello.txt 
+   66  ls
+   67  mv hello.txt devops/
+   68  ls
+   69  cd devops/
+   70  ls
+   71  cd ..
+   72  ls
+   73  history
+   74  clear
+   75  mkdir test prod qa
+   76  ls
+   77  pwd
+   78  touch testing.txt production.txt
+   79  ls
+   80  cd devops/
+   81  mkdir -p Udupi/Karkala/Bailoor/Kowdoor
+   82  ls
+   83  cd Udupi/
+   84  cd Karkala/
+   85  ls
+   86  cd Bailoor/
+   87  ls
+   88  cd Kowdoor/
+   89  ls
+   90  pwd
+   91  cd /
+   92  cd home/ubuntu/
+   93  pwd
+   94  uname
+   95  ls
+   96  cd prod/
+   97  cd
+   98  ls
+   99  pwd
+  100  touch file_{1..10}.txt
+  101  ls
+  102  clear
+  103  ls
+  104  mkdir new folder_{1..10}
+  105  ls
+  106  cp file_1.txt devops/
+  107  ls
+  108  cd devops/
+  109  ls
+  110  cd ..
+  111  ls
+  112  mv file_3.txt devops/
+  113  ls
+  114  cd devops/
+  115  ls
+  116  cd ..
+  117  ls
+  118  rm file_*.txt
+  119  ls
+  120  rm -r folder*
+  121  ls
+  122  mkdir chethu
+  123  rm chethu
+  124  rm -rf chethu
+  125  ls
+  126  mv devops devops_zero_to_hero
+  127  ls
+  128  clear
+  129  ls
+  130  mkdir batch-3
+  131  ls
+  132  cp devops_zero_to_hero/ batch-3/
+  133  cp -r devops_zero_to_hero/ batch-3/
+  134  ls
+  135  cd batch-3/
+  136  ls
+  137  cd devops_zero_to_hero/
+  138  ls
+  139  cd
+  140  ls
+  141  cd batch-3/
+  142  ls
+  143  rm -r devops_zero_to_hero/
+  144  ls
+  145  cd ..
+  146  ls
+  147  cp devops_zero_to_hero/* batch-3/
+  148  cp -r devops_zero_to_hero/* batch-3/
+  149  cd batch-3/
+  150  ls
+  151  cd ..
+  152  ls
+  153  cd devops_zero_to_hero/
+  154  ls
+  155  cd ..
+  156  clear
+  157  ls
+  158  pwd
+  159  cd batch-3/
+  160  ls
+  161  cd /
+  162  cd home/ubuntu/
+  163  ls
+  164  useradd chethu
+  165  sudo useradd chethu
+  166  pwd
+  167  cd ..
+  168  ls
+  169  sudo useradd -m naveen
+  170  ls
+  171  sudo mkdir chethuu
+  172  ls
+  173  whoami
+  174  sudo passwd naveen
+  175  su naveen
+  176  clear
+  177  ls
+  178  sudo useradd -m audi
+  179  sudo passwd audi
+  180  ls
+  181  su audi
+  182  sudo su
+  183  clear
+  184  ls
+  185  cd ubuntu/
+  186  ls
+  187  ls -la
+  188  ls -a
+  189  ls
+  190  clear
+  191  history
